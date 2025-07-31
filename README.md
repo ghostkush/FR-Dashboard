@@ -4,6 +4,16 @@ A sleek and interactive **dashboard** for retrieving and analyzing the financial
 🔍 Instantly access balance sheets, income statements, and key financial ratios — powered by the Yahoo Finance API.
 
 ---
+## 🔗 Extension Of
+
+This dashboard is an **extension of my earlier project:**  
+[Original Financial Ratio Calculator](https://github.com/ghostkush/Fin-Ratio-Cal)
+
+- Built upon core functionalities from my previous tool.
+- Now featuring an interactive dashboard, additional insights, and upcoming AI-powered features!
+
+
+---
 
 ## 🚀 Features
 
